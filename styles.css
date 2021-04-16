@@ -1,0 +1,14 @@
+.first {
+  background-color: red;
+  height: 500px;
+  width: 100%;
+  z-index: -1;
+}
+
+.second {
+  background-color: blue;
+  position: absolute;
+  top: 50px;
+  z-index: 5;
+  height: 400px;
+}
